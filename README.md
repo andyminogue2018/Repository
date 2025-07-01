@@ -1,2 +1,2 @@
 # Repository
-處存庫
+儲存庫
